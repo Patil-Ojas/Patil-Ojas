@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="patil-ojas" /> </p>
 
-- 🌱 I’m currently learning about **MLOps, Scalable Deep Learning, Generative AI, NLP, React, TensorFlow, Machine Learning**
+- 🌱 I’m currently learning about **MLOps, Scalable Deep Learning, Generative AI, NLP, React, TensorFlow and Machine Learning**
 
 - 📫 How to reach me **ojas.abhijit.patil@gmail.com**
 
