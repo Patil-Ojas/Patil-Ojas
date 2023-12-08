@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ojas Patil</h1>
-<h3 align="center">A ML Engineer, Data Analyst(Power BI), Gen AI Enthusiast</h3>
+<h3 align="center">An ML Engineer, Data Analyst(Power BI), Gen AI Enthusiast</h3>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="patil-ojas" /> </p>
