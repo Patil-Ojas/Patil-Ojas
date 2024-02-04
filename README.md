@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ojas.abhijit.patil@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v5zioLSvAQAg0RiDnQUPlv9q0B5N29np/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v5zioLSvAQAg0RiDnQUPlv9q0B5N29np/view?usp=sharing) -->
 
 - ⚡ Some fun facts about myself, **I love playing Badminton 🏸, reading novels 📚, watching anime ⛩️ and listening to music! 🎶**
 
