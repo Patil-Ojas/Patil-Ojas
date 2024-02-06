@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vwKZVkY1VLKL9p-TumChDc8F54jZeJXE/view?usp=sharing)
 
-- 📫 Have a Task / Project for me? Feel Free to Reach out **ojas.abhijit.patil@gmail.com**
+- 📫 Have a Task / Project for me? Feel free to reach out **ojas.abhijit.patil@gmail.com**
 
 - ⚡ Some fun facts about myself, **I love playing Badminton 🏸, reading novels 📚, watching anime ⛩️ and listening to music! 🎶**
 
