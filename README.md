@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **MLOps, Scalable Deep Learning, Generative AI, NLP, React, TensorFlow and Machine Learning**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vwKZVkY1VLKL9p-TumChDc8F54jZeJXE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wp_iATg5M0LoTXf7Wylqez3kUKPHKK0I/view?usp=sharing)
 
 - 📫 Have a Task / Project for me? Feel free to reach out **ojas.abhijit.patil@gmail.com**
 
