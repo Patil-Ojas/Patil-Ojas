@@ -20,10 +20,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ojaspatil-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojas patil" height="30" width="40" /> </a>
 <a href="https://www.kaggle.com/ojaspatil21bai1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ojas patil" height="30" width="40" /></a>
-<a href="https://instagram.com/_ojas_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ojas_patil_" height="30" width="40" /></a>
+<a href="https://twitter.com/OjasPatil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter.svg" alt="_ojas_patil_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@21bai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="21bai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ojas-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojas patil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ojas patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojas patil" height="30" width="40" /></a>
+<a href="https://leetcode.com/Devils__Den/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojas patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
