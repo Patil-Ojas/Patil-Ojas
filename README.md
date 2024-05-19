@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="patil-ojas" /> </p>
 
 - 🌱 I’m currently learning about **MLOps, Scalable Deep Learning, Generative AI, NLP, React, TensorFlow and Machine Learning**
-
+<!--
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-w4VFwAyrCJ9VB_YasqQIbzDM7zQaqeW/view?usp=sharing)
-
+-->
 - 📫 Have a Task / Project for me? Feel free to reach out **ojas.abhijit.patil@gmail.com**
 
 - ⚡ Some fun facts about myself, **I love playing Badminton 🏸, reading novels 📚, watching anime ⛩️ and listening to music! 🎶**
@@ -22,8 +22,10 @@
 <a href="https://www.kaggle.com/ojaspatil21bai1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ojas patil" height="30" width="40" /></a>
 <a href="https://twitter.com/OjasPatil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter.svg" alt="_ojas_patil_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@21bai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="21bai" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/ojas-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojas patil" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/ojas-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojas patil" height="30" width="40" /></a> 
+<!-- 
 <a href="https://leetcode.com/Devils__Den/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojas patil" height="30" width="40" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
