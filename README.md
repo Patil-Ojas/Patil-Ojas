@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="patil-ojas" /> </p>
 
-- 🌱 I’m currently learning about **MLOps, Scalable Deep Learning, Generative AI, NLP, React, TensorFlow and Machine Learning**
-<!--
+- 🌱 I’m currently learning about **LLMs, Scalable Deep Learning, Generative AI, NLP and Deep RL**
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-w4VFwAyrCJ9VB_YasqQIbzDM7zQaqeW/view?usp=sharing)
--->
-- 📫 Have a Task / Project for me? Feel free to reach out **ojas.abhijit.patil@gmail.com**
+  
+- 📫 Have a Project / want to hop on a quick call? Feel free to reach out **ojas.abhijit.patil@gmail.com** (Particularly interested in LLM Internships!)
 
 - ⚡ Some fun facts about myself, **I love playing Badminton 🏸, reading novels 📚, watching anime ⛩️ and listening to music! 🎶**
 
