@@ -1,4 +1,4 @@
-![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)
+<!-- ![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)-->
 
 
 <h1 align="center">Hi 👋, I'm Ojas Patil</h1>
