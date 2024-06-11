@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-w4VFwAyrCJ9VB_YasqQIbzDM7zQaqeW/view?usp=sharing)
   
-- 📫 Have a Project / want to hop on a quick call? Feel free to reach out **ojas.abhijit.patil@gmail.com** (Particularly interested in LLM Internships!)
+- 📫 Have a Project / want to hop on a quick call? Feel free to reach out **ojas.abhijit.patil@gmail.com** (Particularly interested in Internships!)
 
 - ⚡ Some fun facts about myself, **I love playing Badminton 🏸, reading novels 📚, watching anime ⛩️ and listening to music! 🎶**
 
