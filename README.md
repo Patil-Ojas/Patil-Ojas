@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **LLMs, Scalable Deep Learning, Generative AI, NLP and Deep RL**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eghc39AXC-jrv8yVqYYRc9x0fBYZUPvt/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eghc39AXC-jrv8yVqYYRc9x0fBYZUPvt/view?usp=sharing) -->
   
 - 📫 Have a Project / want to hop on a quick call? Feel free to reach out **ojas.abhijit.patil@gmail.com** (Particularly interested in Internships!)
 
