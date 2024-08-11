@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="patil-ojas" /> </p>
 
-- 🌱 I’m currently learning about **LLMs, Scalable Deep Learning, Generative AI, NLP and Deep RL**
+- 🌱 I’m currently learning about **Deep Learning, Generative AI, NLP and Deep RL**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ex0rgpeoHol19EsYHBaBpPQ0yP3SbGvh/view?usp=sharing)
   
