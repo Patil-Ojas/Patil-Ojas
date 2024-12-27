@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ojas Patil</h1>
-<h3 align="center">An ML Engineer, Data Analyst, Gen AI Enthusiast</h3>
+<h3 align="center">An ML Engineer & Researcher</h3>
 <!-- <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.webp"> -->
 <img align="right" alt="Coding" width="350" src="https://www.jitendra-kumar.com/static/media/coding.19b576dc.png">
 
