@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **Deep Learning, Generative AI, NLP and Deep RL**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ex0rgpeoHol19EsYHBaBpPQ0yP3SbGvh/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EMA0ohtPjrE4jQxoseDnEl-xnOAzTEHX/view?usp=sharing)
   
 - 📫 Have a Project / want to hop on a quick call? Feel free to reach out **ojas.abhijit.patil@gmail.com** (Particularly interested in Internships!)
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-ojas&" alt="patil-ojas" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-ojas&show_icons=true&locale=en&layout=compact" alt="patil-ojas" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-ojas&show_icons=true&locale=en&layout=compact" alt="patil-ojas" /></p> -->
 
 <!---<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-ojas&show_icons=true&locale=en" alt="patil-ojas" /></p> --->
